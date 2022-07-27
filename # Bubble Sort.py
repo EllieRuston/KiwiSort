@@ -26,6 +26,8 @@ print(n_data)
 #data_kiwi.close()   
 
 
+jfytcdytccyt
+
 
 
 
