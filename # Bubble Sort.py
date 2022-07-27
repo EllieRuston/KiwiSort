@@ -7,6 +7,7 @@ starttime = time.time()
 def b_sort(n_data):
     # calculate itterations
     for i in range(len(n_data)-1,0,-1):
+     
      #swapping 
         for j in range(i):
             if n_data[j]>n_data[j+1]:
@@ -25,8 +26,6 @@ b_sort(n_data)
 print(n_data)
 #data_kiwi.close()   
 
-
-jfytcdytccyt
 
 
 
